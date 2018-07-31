@@ -22,7 +22,7 @@ Since the latest version of scipy (1.1.0) removes Lena from misc, this repositor
 
   - append `"lena"` to `__all__` list, which can be seen from the top several lines.
 
-  - add the following definition of function `lena()`
+  - add the following definition of function `lena()` to the end of the file.
 
     ```python
     def lena():
